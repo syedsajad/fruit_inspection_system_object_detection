@@ -1,1 +1,1 @@
-# fruit_inspection_system_object_detection
+# fruit_inspection_system_object_detection_yolov8
